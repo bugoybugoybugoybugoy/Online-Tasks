@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F9F9FC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.server-header {
+    width: 100%;
+    background: #7A5DC7;
+    color: white;
+    padding: 15px 30px;
+    text-align: right;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
